@@ -1,7 +1,7 @@
 # 단일 PC 모델: MySQL Server + On-premises Data Gateway + Power Platform 연동 가이드
 
-작성자: Microsoft PowerPlatform SE 이영서
-마지막 수정일: 260401
+### 작성자: Microsoft PowerPlatform SE 이영서
+### 마지막 수정일: 260401
 
 > **목적**: Windows **단일 PC 1대**에 **SQL Server**와 **On-premises Data Gateway**를 함께 설치하고, 이를 **Power Automate / Copilot Studio / Power Apps** 같은 **Power Platform** 서비스에서 사용하는 전체 절차를 정리합니다.
 
