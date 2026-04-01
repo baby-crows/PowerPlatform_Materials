@@ -206,7 +206,7 @@ SQL Server Connection 생성 후 아래 순서로 테스트합니다.
 
 예: `dbo.OrgInfo` 테이블에서 `Id = 1` 행 조회
 
-![alt text](image.png)
+![alt text](./Image.png)
 
 
 
