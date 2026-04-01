@@ -239,7 +239,6 @@ Start-Service -Name 'On-premises data gateway service'
 
 다시 실행하면 정상 동작해야 합니다.
 
--
 
 ## 10. 체크리스트 요약
 
