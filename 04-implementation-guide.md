@@ -157,80 +157,31 @@ X-Naver-Client-Id: {your-client-id}
 **Response → + Add default response → 아래 JSON 붙여넣기**
 ```json
 {
-  "lastBuildDate": "Mon, 06 Apr 2026 21:10:10 +0900",
-  "total": 1216714,
+  "lastBuildDate": "Tue, 07 Apr 2026 13:32:25 +0900",
+  "total": 1216776,
   "start": 1,
-  "display": 10,
+  "display": 3,
   "items": [
     {
-      "title": "무주군 지역으뜨인재 육성사업 추진",
-      "originallink": "https://sjbnews.com/news/news.php?number=875621",
-      "link": "https://sjbnews.com/news/news.php?number=875621",
-      "description": "신청자 접수는 일반의 경우 오는 13일부터 15일까지(09:00~23:30) 온라인(네이버폼 설문 링크: https://<b>naver</b>.me/Ix0vWARp)상에서 선착순(50여 명)이다. 사회적 배려 대상 가정 학생은 학교장 및 기관을 통해 우선 추천(40여 명)... ",
-      "pubDate": "Mon, 06 Apr 2026 19:29:00 +0900"
+      "title": "[해남소식] '무소유' 법정 스님 삶과 철학 잇는 에세이 공모전",
+      "originallink": "https://www.yna.co.kr/view/AKR20260407089300054?input=1195m",
+      "link": "https://n.news.naver.com/mnews/article/001/0016007005?sid=103",
+      "description": "참여를 희망하는 경우 A4 기준 1장 반 내외분량의 에세이를 작성해 이메일(booksan25@<b>naver</b>.com)로 제출하면 된다. 기간은 오는 10일부터 6월 10일까지이며 국내 거주 내외국인 누구나 응모할 수 있다. 수상작은 심사를 거쳐 6월... ",
+      "pubDate": "Tue, 07 Apr 2026 13:28:00 +0900"
     },
     {
-      "title": "인천 부평구자원봉사센터&amp;조지메이슨대학교 한국캐퍼스. 어린이에게 영...",
-      "originallink": "https://kpenews.com/View.aspx?No=4031583",
-      "link": "https://kpenews.com/View.aspx?No=4031583",
-      "description": "한국정경신문 박용일 기­uc790 yong68333@<b>naver</b>.com [한국정경신문(인천)=박용일 기자] 인천 부평구자원봉사센터가 지난 3일 조지메이슨대학교 한국캐퍼스와 지역사회공헌 및 자원봉사 활성과를 위한 업무 협약을 맺았다.이번... ",
-      "pubDate": "Mon, 06 Apr 2026 19:02:00 +0900"
-    },
-    {
-      "title": "첩주꼬나무오케스트라 신규 단원 33명 모집",
-      "originallink": "https://www.ccdn.co.kr/news/articleView.html?idxno=1071905",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1071905",
-      "description": "연주 역량 강화에 집중하며, 정기연주회와 지역 연계 공연 등 다양한 무대 경험도 제공한다. 교육비는 전액 무료이며 1인 1악기와 간식이 지원된다. 지원은 온라인 홈페이지(https://<b>naver</b>.me/IGsAzors)를 통해 가능하다.",
-      "pubDate": "Mon, 06 Apr 2026 18:59:00 +0900"
-    },
-    {
-      "title": "박규석 사외이사, 제이에스링크 주식 2만8488주 보유 보고",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653997",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653997",
-      "description": "주소******1953@<b>naver</b>.com3. 특정증권등의 소유상황가. 소유 특정증권등의 수 및 소유비율보고서작성 기준일특정증권등주권특정증권등의수(주)비율(%)주식수(주)비율(%)직전보고서-----이번보고서2026년 04월 06일28... ",
-      "pubDate": "Mon, 06 Apr 2026 18:36:00 +0900"
-    },
-    {
-      "title": "스테이블코인 관련주, '봄꽃만개' 다날·미투온·향토파이낸셜·더즌",
-      "originallink": "http://www.finomy.com/news/articleView.html?idxno=252736",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=252736",
-      "description": "하지만 <b>NAVER</b>, 드림시큐리티, 넥써줺, 한콤위드, 아이티센피엔에스, 위메이드 등은 하락했다. 다날이 한국 기업 최초로 글로벌 혁신기구 '에이전틱 AI 재단(이하 AAIF)' 공식 멤버로 합류하고 글로벌 AI, 빅테크 기업들과... ",
-      "pubDate": "Mon, 06 Apr 2026 18:06:00 +0900"
-    },
-    {
-      "title": "경남도 글로벌 융복합 페스티벌 GSAT 2026 준비 박차",
-      "originallink": "http://www.gndomin.com/news/articleView.html?idxno=471312",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=471312",
-      "description": "서포터즈 참여를 희망하는 경우 4월 8일까지 GSAT 누리집에서 서식을 내려받아 지정된 이메일(become2026@<b>naver</b>.com)로 접수하면 된다. 또한, 도는 GSAT 2026의 성공적인 개칙를 위해 누리집, 주요 소셜미디어 채널(유튜브... ",
-      "pubDate": "Mon, 06 Apr 2026 17:57:00 +0900"
-    },
-    {
-      "title": ""철강산업 붕괴 위기"­..포스코·현대제철 노조, 경북도에 위기 대응 ...",
-      "originallink": "https://kpenews.com/View.aspx?No=4031496",
-      "link": "https://kpenews.com/View.aspx?No=4031496",
-      "description": "한국정경신문 문상혁 기­uc790 nasa7457@<b>naver</b>.com [한국정경신문=문상혁 기자] 포스코·현대제철 노동조합 노조는 철강산업 위기가 지역 경제 붕괴를 가져올 수 있다며 지원 대책 마련을 강조했다. 6일 국내 철강기업인 포스코와... ",
-      "pubDate": "Mon, 06 Apr 2026 17:52:00 +0900"
-    },
-    {
-      "title": "넷마블, 계열사 코웨이 주식 1년간 1500억원 규모 장내 매수",
-      "originallink": "http://www.breaknews.com/1198048",
-      "link": "http://www.breaknews.com/1198048",
+      "title": "현대차, 상품성·경제성↑ ‘2027 코나’ 출시",
+      "originallink": "http://www.breaknews.com/1198200",
+      "link": "http://www.breaknews.com/1198200",
       "description": "break9874@<b>naver</b>.com *아래는 위 기사를 '구글 번역'으로 번역한 영문 기사의 [전문]입니다. 구글번역'은 이해도 높이기를 위해 노력하고 있습니다. 영문 번역에 오류가... ",
-      "pubDate": "Mon, 06 Apr 2026 17:50:00 +0900"
+      "pubDate": "Tue, 07 Apr 2026 13:08:00 +0900"
     },
     {
-      "title": "[천지일보] 가로세로 낙말 퀴즈 [126], [125] 답 및 스벅쿠폰 당첨자 발...",
-      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3391731",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3391731",
-      "description": "훈장님이 말심꼬러기 學童을 바닥에 꾿어 앉히고 교육 퀴즈 응모는 천지일보 네이버 대표메일(newscj001@<b>naver</b>.com)로 다음 주 토요일까지 해주시면 됩니다. 이름, 전화번호, 메일주소를 기입해서 답안과 함께... ",
-      "pubDate": "Mon, 06 Apr 2026 17:48:00 +0900"
-    },
-    {
-      "title": "국민연금 위탁운용사 '블랙스톤', 운영 실효성 우려",
-      "originallink": "https://www.jjan.kr/article/20260406500566",
-      "link": "https://www.jjan.kr/article/20260406500566",
-      "description": "관계자는 "금융사들의 투자를 강제할 수는 없는 만큼 공단에서도 어려운 점이 있다"며 "다만 지역투자 확대를 위해 계속 노력하고 있다. 여러 방안이 논의되고 있는 상황이다&quot;고 말했다. /김경수 kks4483@<b>naver</b>.com /김경수",
-      "pubDate": "Mon, 06 Apr 2026 17:46:00 +0900"
+      "title": "현대차, 소형 스포츠 옵션 강자..‘2027 코나’ 출시",
+      "originallink": "https://kpenews.com/View.aspx?No=4032649",
+      "link": "https://kpenews.com/View.aspx?No=4032649",
+      "description": "한국정경신문 문상혁 기­자 nasa7457@<b>naver</b>.com [한국정경신문=문상혁 기자] 현대자동차가 경제성을 강화한 소형 SUV를 선보인다. 현대차는 소형 스포츠유틸리티차(SUV) 연식변경 모델 '2027 코나'를 출시한다고 7일... ",
+      "pubDate": "Tue, 07 Apr 2026 12:54:00 +0900"
     }
   ]
 }
