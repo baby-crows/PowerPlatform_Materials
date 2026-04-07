@@ -1,0 +1,17 @@
+department,keyword,max_articles,is_active
+auto,신차할부,3,true
+auto,중고차금융,3,true
+auto,전기차금융,3,true
+auto,자동차리스,3,true
+retail,개인신용대출,3,true
+retail,가계대출,3,true
+retail,소비자금융,3,true
+retail,가계부채,3,true
+industrial,중소기업대출,3,true
+industrial,부동산PF,3,true
+industrial,제조업경기,3,true
+industrial,기업금융동향,3,true
+synergy,BNK금융지주,5,true
+synergy,캐피탈업계,3,true
+synergy,금융규제,3,true
+synergy,지역금융,3,true
